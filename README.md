@@ -28,11 +28,11 @@
 
 更多细节请查看：https://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 
-##2、`KNN_and_decision_tree_predict_income.ipynb`
+## 2、`KNN_and_decision_tree_predict_income.ipynb`
 jupyter notebook中编写的python代码
 运行代码请安装 `Anaconda`软件，或者直接复制代码到python编辑器运行
 
-##3、`paper.pdf`
+## 3、`paper.pdf`
 项目论文
 
 
